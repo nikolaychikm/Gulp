@@ -2,6 +2,7 @@
 Install
 
 1) Install <a href="https://nodejs.org/">NodeJS</a>
+
 2) Install Gulp <code>npm install gulp -g</code>
 
 3) Create <code>package.json</code>:
